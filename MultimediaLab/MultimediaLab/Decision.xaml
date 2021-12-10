@@ -1,0 +1,23 @@
+﻿<Window x:Class="MultimediaLab.Decision"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MultimediaLab"
+        mc:Ignorable="d"
+        Title="Decision" Height="450" Width="800" WindowStyle="SingleBorderWindow" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.Background>
+            <ImageBrush ImageSource="D:\4Curso\Multimedia\TrabajoPractico\MultimediaLab\MultimediaLab\img\Fondo.jpg" Stretch="UniformToFill"/>
+        </Grid.Background>
+        <Label x:Name="lblTituloCulpable" Content="¿Quien es el culpable?" HorizontalAlignment="Left" Height="94" Margin="112,44,0,0" VerticalAlignment="Top" Width="552" FontSize="50" Foreground="White" FontWeight="Bold"/>
+        <Button x:Name="btnGorka" Content="Gorka" HorizontalAlignment="Left" Height="45" Margin="86,289,0,0" VerticalAlignment="Top" Width="146" FontSize="30" Background="#FF2788D7" Foreground="White" Click="perdiste"/>
+        <Button x:Name="btnCasero" Content="Casero" HorizontalAlignment="Left" Height="45" Margin="315,289,0,0" VerticalAlignment="Top" Width="146" FontSize="30"  Background="#FF2788D7" Foreground="White" Click="ganaste"/>
+        <Button x:Name="btnNadie" Content="Nadie" HorizontalAlignment="Left" Height="45" Margin="531,289,0,0" VerticalAlignment="Top" Width="146" FontSize="30"  Background="#FF2788D7" Foreground="White" Click="perdiste"/>
+        <Label x:Name="lblGanador" Content="Enhorabuena, has ganado" HorizontalAlignment="Center" Height="88" VerticalAlignment="Center" Width="656" FontSize="50" Foreground="#FF2AF32A" FontWeight="Bold" BorderBrush="White" Background="{x:Null}" Visibility="Hidden"/>
+
+    </Grid>
+</Window>

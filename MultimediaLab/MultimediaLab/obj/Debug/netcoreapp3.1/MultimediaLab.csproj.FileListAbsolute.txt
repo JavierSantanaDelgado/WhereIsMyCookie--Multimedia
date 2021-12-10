@@ -1,0 +1,66 @@
+C:\Users\jshth\source\repos\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\MultimediaLab.csproj.AssemblyReference.cache
+C:\Users\jshth\source\repos\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\jshth\source\repos\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\jshth\source\repos\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\MultimediaLab_MarkupCompile.cache
+C:\Users\jshth\source\repos\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\MultimediaLab_MarkupCompile.lref
+C:\Users\jshth\source\repos\MultimediaLab\MultimediaLab\bin\Debug\netcoreapp3.1\MultimediaLab.exe
+C:\Users\jshth\source\repos\MultimediaLab\MultimediaLab\bin\Debug\netcoreapp3.1\MultimediaLab.deps.json
+C:\Users\jshth\source\repos\MultimediaLab\MultimediaLab\bin\Debug\netcoreapp3.1\MultimediaLab.runtimeconfig.json
+C:\Users\jshth\source\repos\MultimediaLab\MultimediaLab\bin\Debug\netcoreapp3.1\MultimediaLab.runtimeconfig.dev.json
+C:\Users\jshth\source\repos\MultimediaLab\MultimediaLab\bin\Debug\netcoreapp3.1\MultimediaLab.dll
+C:\Users\jshth\source\repos\MultimediaLab\MultimediaLab\bin\Debug\netcoreapp3.1\MultimediaLab.pdb
+C:\Users\jshth\source\repos\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\jshth\source\repos\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\MultimediaLab.g.resources
+C:\Users\jshth\source\repos\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\MultimediaLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jshth\source\repos\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\MultimediaLab.AssemblyInfoInputs.cache
+C:\Users\jshth\source\repos\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\MultimediaLab.AssemblyInfo.cs
+C:\Users\jshth\source\repos\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\MultimediaLab.csproj.CoreCompileInputs.cache
+C:\Users\jshth\source\repos\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\MultimediaLab.dll
+C:\Users\jshth\source\repos\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\MultimediaLab.pdb
+C:\Users\jshth\source\repos\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\MultimediaLab.genruntimeconfig.cache
+D:\4º Curso\Multimedia\Trabajo práctico\MultimediaLab\MultimediaLab\bin\Debug\netcoreapp3.1\MultimediaLab.exe
+D:\4º Curso\Multimedia\Trabajo práctico\MultimediaLab\MultimediaLab\bin\Debug\netcoreapp3.1\MultimediaLab.deps.json
+D:\4º Curso\Multimedia\Trabajo práctico\MultimediaLab\MultimediaLab\bin\Debug\netcoreapp3.1\MultimediaLab.runtimeconfig.json
+D:\4º Curso\Multimedia\Trabajo práctico\MultimediaLab\MultimediaLab\bin\Debug\netcoreapp3.1\MultimediaLab.runtimeconfig.dev.json
+D:\4º Curso\Multimedia\Trabajo práctico\MultimediaLab\MultimediaLab\bin\Debug\netcoreapp3.1\MultimediaLab.dll
+D:\4º Curso\Multimedia\Trabajo práctico\MultimediaLab\MultimediaLab\bin\Debug\netcoreapp3.1\MultimediaLab.pdb
+D:\4º Curso\Multimedia\Trabajo práctico\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\MultimediaLab.csproj.AssemblyReference.cache
+D:\4º Curso\Multimedia\Trabajo práctico\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\4º Curso\Multimedia\Trabajo práctico\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\App.g.cs
+D:\4º Curso\Multimedia\Trabajo práctico\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\MultimediaLab_MarkupCompile.cache
+D:\4º Curso\Multimedia\Trabajo práctico\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\MultimediaLab_MarkupCompile.lref
+D:\4º Curso\Multimedia\Trabajo práctico\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\4º Curso\Multimedia\Trabajo práctico\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\MultimediaLab.g.resources
+D:\4º Curso\Multimedia\Trabajo práctico\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\MultimediaLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\4º Curso\Multimedia\Trabajo práctico\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\MultimediaLab.AssemblyInfoInputs.cache
+D:\4º Curso\Multimedia\Trabajo práctico\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\MultimediaLab.AssemblyInfo.cs
+D:\4º Curso\Multimedia\Trabajo práctico\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\MultimediaLab.csproj.CoreCompileInputs.cache
+D:\4º Curso\Multimedia\Trabajo práctico\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\MultimediaLab.dll
+D:\4º Curso\Multimedia\Trabajo práctico\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\MultimediaLab.pdb
+D:\4º Curso\Multimedia\Trabajo práctico\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\MultimediaLab.genruntimeconfig.cache
+D:\4Curso\Multimedia\TrabajoPractico\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\MultimediaLab.csproj.AssemblyReference.cache
+D:\4Curso\Multimedia\TrabajoPractico\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\4Curso\Multimedia\TrabajoPractico\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\App.g.cs
+D:\4Curso\Multimedia\TrabajoPractico\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\MultimediaLab_MarkupCompile.cache
+D:\4Curso\Multimedia\TrabajoPractico\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\MultimediaLab_MarkupCompile.lref
+D:\4Curso\Multimedia\TrabajoPractico\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\MultimediaLab.g.resources
+D:\4Curso\Multimedia\TrabajoPractico\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\MultimediaLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\4Curso\Multimedia\TrabajoPractico\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\MultimediaLab.AssemblyInfoInputs.cache
+D:\4Curso\Multimedia\TrabajoPractico\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\MultimediaLab.AssemblyInfo.cs
+D:\4Curso\Multimedia\TrabajoPractico\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\MultimediaLab.csproj.CoreCompileInputs.cache
+D:\4Curso\Multimedia\TrabajoPractico\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\MultimediaLab.pdb
+D:\4Curso\Multimedia\TrabajoPractico\MultimediaLab\MultimediaLab\bin\Debug\netcoreapp3.1\MultimediaLab.exe
+D:\4Curso\Multimedia\TrabajoPractico\MultimediaLab\MultimediaLab\bin\Debug\netcoreapp3.1\MultimediaLab.deps.json
+D:\4Curso\Multimedia\TrabajoPractico\MultimediaLab\MultimediaLab\bin\Debug\netcoreapp3.1\MultimediaLab.runtimeconfig.json
+D:\4Curso\Multimedia\TrabajoPractico\MultimediaLab\MultimediaLab\bin\Debug\netcoreapp3.1\MultimediaLab.runtimeconfig.dev.json
+D:\4Curso\Multimedia\TrabajoPractico\MultimediaLab\MultimediaLab\bin\Debug\netcoreapp3.1\MultimediaLab.dll
+D:\4Curso\Multimedia\TrabajoPractico\MultimediaLab\MultimediaLab\bin\Debug\netcoreapp3.1\MultimediaLab.pdb
+D:\4Curso\Multimedia\TrabajoPractico\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\MultimediaLab.dll
+D:\4Curso\Multimedia\TrabajoPractico\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\MultimediaLab.genruntimeconfig.cache
+D:\4Curso\Multimedia\TrabajoPractico\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\4Curso\Multimedia\TrabajoPractico\MultimediaLab\MultimediaLab\bin\Debug\netcoreapp3.1\WpfAnimatedGif.dll
+D:\4Curso\Multimedia\TrabajoPractico\MultimediaLab\MultimediaLab\bin\Debug\netcoreapp3.1\XamlAnimatedGif.dll
+D:\4Curso\Multimedia\TrabajoPractico\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\VentanaBienvenida.g.cs
+D:\4Curso\Multimedia\TrabajoPractico\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\VentanaBienvenida.baml
+D:\4Curso\Multimedia\TrabajoPractico\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\Decision.g.cs
+D:\4Curso\Multimedia\TrabajoPractico\MultimediaLab\MultimediaLab\obj\Debug\netcoreapp3.1\Decision.baml
